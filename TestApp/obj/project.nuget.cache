@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzVoMBLm/YCftqZUiN6t93os6rY+nZLxbG0oi9SvCqn7Ry8Rtc9Ltlx1FLF3WqaJCbZkYrE2DrVvqEp6AtrasQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\40722\\source\\repos\\Procesio\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40722\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\40722\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\40722\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
