@@ -1,0 +1,12 @@
+C:\Users\40722\source\repos\Procesio\Domain\bin\Debug\net5.0\Procesio.Core.deps.json
+C:\Users\40722\source\repos\Procesio\Domain\bin\Debug\net5.0\Procesio.Core.dll
+C:\Users\40722\source\repos\Procesio\Domain\bin\Debug\net5.0\ref\Procesio.Core.dll
+C:\Users\40722\source\repos\Procesio\Domain\bin\Debug\net5.0\Procesio.Core.pdb
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.csprojAssemblyReference.cache
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.AssemblyInfoInputs.cache
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.AssemblyInfo.cs
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.csproj.CoreCompileInputs.cache
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.dll
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\ref\Procesio.Core.dll
+C:\Users\40722\source\repos\Procesio\Domain\obj\Debug\net5.0\Procesio.Core.pdb
